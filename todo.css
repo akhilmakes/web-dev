@@ -1,0 +1,26 @@
+h1 {
+  color: black;
+  padding: 10px;
+  font-family: monospace;
+  font-style: normal;
+  font-size: 25px;
+
+}
+
+input{
+  font-family: monospace;
+  padding: 5px;
+}
+
+button{
+
+  font-family: monospace;
+  padding: 5px;
+}
+
+
+
+table {
+  font-family: monospace;
+  margin: 10px
+}
